@@ -1,0 +1,73 @@
+/* font-family: 'Merriweather', serif; */
+/* font-family: 'Montserrat', sans-serif; */
+
+#headline h1{
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+#headline p {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+ #headline h5{
+  color: grey;
+  text-align: center;
+  font-weight: normal;
+}
+
+h4 {
+  text-align: center;
+  font-style: bold;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+img {
+  width: 100%;
+}
+
+.images {
+  height: 80%;
+  width: 100%;
+}
+
+.image2 {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.image3 {
+  height: 600px;
+  width: 600px;
+
+}
+
+.link {
+  font-style: italic;
+  text-align: center;
+}
+
+aside {
+  color: orange;
+  font-style: italic, bold;
+  text-align: center;
+  font-size: 18px;
+}
+
+.column {
+  text-align: center;
+  width: auto;
+  padding: 5px;
+}
+
+h6 {
+  color: grey;
+}
